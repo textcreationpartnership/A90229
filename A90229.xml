@@ -1,0 +1,428 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of high treason exhibited against Cheap-side crosse. With the last will and testament of the said crosse. And certaine epitaphs upon her tombe. By R. Overton. Newly printed and newly come forth; with his holinesse priviledge, to prevent false copies.</title>
+            <author>Overton, Richard, fl. 1646.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90229</idno>
+            <idno type="STC">Wing O623</idno>
+            <idno type="STC">Thomason E134_23</idno>
+            <idno type="STC">ESTC R789</idno>
+            <idno type="EEBO-CITATION">99873207</idno>
+            <idno type="PROQUEST">99873207</idno>
+            <idno type="VID">156413</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90229)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156413)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E134[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of high treason exhibited against Cheap-side crosse. With the last will and testament of the said crosse. And certaine epitaphs upon her tombe. By R. Overton. Newly printed and newly come forth; with his holinesse priviledge, to prevent false copies.</title>
+                  <author>Overton, Richard, fl. 1646.</author>
+               </titleStmt>
+               <extent>[2] 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Overton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cheapside Cross (London, England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156413:1" rendition="simple:additions"/>
+            <p>ARTICLES OF High Treaſon Exhibited againſt CHEAP-SIDE CROSSE.</p>
+            <p>WITH The laſt WILL and TESTAMENT of the ſaid CROSSE.</p>
+            <p>And certaine EPITAPHS upon her Tombe.</p>
+            <p>
+               <hi>By</hi> R. OVERTON.</p>
+            <p>Newly Printed, and newly come forth; with his HOLINESSE Priviledge, to prevent falſe Copies.</p>
+            <figure/>
+            <p>LONDON, Printed for <hi>R. Overton,</hi> 1642.</p>
+         </div>
+         <div type="author_to_muse">
+            <pb facs="tcp:156413:2"/>
+            <head>The Author to his Muſe.</head>
+            <lg>
+               <l>MY <hi>Muſe</hi> ſcarce hatch'd erects her ſpiring eye,</l>
+               <l>And through the aire ſees flocks of <hi>Muſes</hi> fly;</l>
+               <l>And wanting <hi>Wings,</hi> ſhee skipt into this <hi>paper:</hi>
+               </l>
+               <l>And after flyes, puft up with windy vaper:</l>
+               <l>But haſty <hi>Muſe</hi> take this advice (I pray)</l>
+               <l>In this thy flight keep in the <hi>Middle way;</hi>
+               </l>
+               <l>Fly not <hi>too high,</hi> for feare of <hi>ſcorching beames;</hi>
+               </l>
+               <l>Nor yet <hi>too low,</hi> for feare of <hi>vvatery ſtreams;</hi>
+               </l>
+               <l>Thy <hi>vvings</hi> are <hi>paper,</hi> if thou doſt aſpire</l>
+               <l>
+                  <hi>Sols fiery throne,</hi> he'll ſet thy wings on fire,</l>
+               <l>To <hi>trident Neptune</hi> if thou doſt deſcend,</l>
+               <l>He'l <hi>vvet</hi> thy <hi>vvings,</hi> and bring thee to thy <hi>end:</hi>
+               </l>
+               <l>Thus to the <hi>Meane</hi> I leave thee: let none be</l>
+               <l>Offended at thy <hi>flight,</hi> nor yet at <hi>me.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>R. O.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:156413:2"/>
+            <head>ARTICLES OF HIGH TREASON Exhibited againſt Cheape-ſide CROSSE, <hi>Dialogue-wiſe,</hi> Betwixt Maſter <hi>Papiſt</hi> a profeſt Catholike, and Maſter <hi>Newes</hi> a Temporiſer.</head>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <l>
+                  <seg rend="decorInit">W</seg>Hat Newes I pray thee, thou canſt tell I know.</l>
+            </sp>
+            <sp>
+               <speaker>News.</speaker>
+               <l>You muſt go <hi>upright,</hi> and forget to <hi>bow,</hi>
+               </l>
+               <l>The <hi>Croſſe</hi> in <hi>Cheap-ſide</hi> it's ac<g ref="char:EOLhyphen"/>cus'd of <hi>Treaſon.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Pa.</speaker>
+               <l>O fie, thou ſpeaks without all ſenſe or Reaſon;</l>
+               <l>The <hi>Croſſe</hi> accus'd of <hi>Treaſon!</hi> heavens forbid:</l>
+               <l>Sure 'tis accus'd of what it never did;</l>
+               <l>The Uſurers bags thou mayſt as well accuſe,</l>
+               <l>And ſay they'r ſtuft with <hi>Traitors</hi> (M<hi rend="sup">r</hi>. <hi>Newes)</hi>
+               </l>
+               <l>
+                  <pb n="2" facs="tcp:156413:3"/>
+The Cut-purſe too, ſtands guilty of <hi>high Treaſon,</hi>
+               </l>
+               <l>Who by his ſlightlets <hi>Traitors</hi> out of Priſon.</l>
+               <l>What's free from <hi>Treaſon</hi> now: Oh diſmall yeare!</l>
+               <l>The very <hi>Horne</hi> ſhrouds <hi>Traitors</hi> too I feare.</l>
+               <l>Alas poore <hi>Criſſe-Croſſe</hi> who would ere have thought,</l>
+               <l>Under the <hi>Horne</hi> a Traitor ſhould been caught:</l>
+               <l>Haſt thou fore-run the <hi>Alphabet of Art</hi>
+               </l>
+               <l>So long, and now to act a <hi>Traitors</hi> part:</l>
+               <l>'Tis not thy part alone, theres others ſhare,</l>
+               <l>And are arraign'd for <hi>Traitors</hi> at the Barre.</l>
+               <l>It's not enough thoſe <hi>Reverend Fathers</hi> ſtand</l>
+               <l>Impeacht of <hi>Treaſon</hi> by ſo <hi>High an hand?</hi>
+               </l>
+               <l>But this poore <hi>Croſſe,</hi> whoſe glory hath erewhile</l>
+               <l>Grown big with honour through this <hi>famous Iſle,</hi>
+               </l>
+               <l>Should be condemn'd? oh what an age is here!</l>
+               <l>We ſhall be all prov'd <hi>Traitors</hi> now I feare.</l>
+               <l>But Maſter <hi>Newes,</hi> how comes this thing about, Is't not effected by the <hi>Rabble rout?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Ne.</speaker>
+               <l>Peace Sir, what now? the <hi>Rabble rout</hi> ye knave?</l>
+               <l>Tis <hi>Patience</hi> that brings <hi>Croſſes</hi> to the grave.</l>
+               <l>
+                  <hi>Cheap-ſide</hi> with patience long hath borne the <hi>Croſſe,</hi>
+               </l>
+               <l>But now't muſt be disburthen'd of that droſſe.</l>
+            </sp>
+            <sp>
+               <speaker>Pa.</speaker>
+               <l>What hath the <hi>Croſſe</hi> committed, M<hi rend="sup">r</hi> 
+                  <hi>News,</hi>
+               </l>
+               <l>That you and others ſhould it thus abuſe?</l>
+               <l>What harme doth it? do'ſt not adorn the <hi>City?</hi>
+               </l>
+               <l>If't be accus'd of <hi>Treaſon</hi> mores the pity.</l>
+            </sp>
+            <sp>
+               <speaker>Ne.</speaker>
+               <l>What though <hi>Vox populi</hi> hath paſt this doome,</l>
+               <l>If you'll have <hi>Croſſes,</hi> you muſt go to <hi>Rome.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Pa.</speaker>
+               <l>I need not Sir, what greater <hi>Croſſe</hi> can fall,</l>
+               <l>If this fall down, we ſhall have <hi>Croſſes</hi> all.</l>
+               <l>Croſſe here, croſſe there, we muſt reſolve on loſſes,</l>
+               <l>Come what come will, we ſhall have ſtore of <hi>Croſſes.</hi>
+               </l>
+               <l>But what's the <hi>Treaſon</hi> this <hi>bleſt monument</hi>
+               </l>
+               <l>Is now attacht of by ſuch joynt conſent?</l>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:156413:3"/>
+               <speaker>Ne.</speaker>
+               <l>Ple tell you M<hi rend="sup">r</hi>. <hi>Papiſt</hi> if you pleaſe</l>
+               <l>The <hi>Articles</hi> againſt it, they be theſe.</l>
+            </sp>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="list_of_articles">
+                        <list>
+                           <head>The ARTICLES.</head>
+                           <item>
+                              <hi>IMprimis,</hi> That this <hi>Idolatrous Croſſe</hi> hath most trai<g ref="char:EOLhyphen"/>terouſly gone about by her evill example, and by many and ſundry ſuggeſtions, to ſeduce his Majeſties liege Subjects from the true Proteſtant Religion, to the Romiſh Cathalike faith, to the utter ſubverſion and ruine of the Kingdome by civill warre.</item>
+                           <item>
+                              <hi>Item,</hi> That the ſaid <hi>Babyloniſh Croſſe</hi> hath traite<g ref="char:EOLhyphen"/>rouſly endeavoured to bring in the Popes ſupremacy, by in<g ref="char:EOLhyphen"/>ſtigating all the ſuperſtitious <hi>Croſſes</hi> in this <hi>Kingdom,</hi> to joyn with her in that Ieſuiticall deſigne.</item>
+                           <item>
+                              <hi>Item,</hi> That this <hi>prophane Heretike</hi> hath moſt traite<g ref="char:EOLhyphen"/>rouſly introduced ſundry and divers innovations into the Church, as, the <hi>Croſſe in Baptiſme, Images, Crucifixes,</hi> and the like.</item>
+                           <item>
+                              <hi>Item,</hi> That this <hi>Romiſh popiſh Idoll,</hi> this <hi>Diaboli<g ref="char:EOLhyphen"/>call overtwhart</hi> hath most tratterouſly ſupported the por<g ref="char:EOLhyphen"/>tractures of <hi>Cardinals</hi> and <hi>Biſhops,</hi> to the confirmation of popery, the countenancing and vindication of Traitors.</item>
+                           <item>
+                              <hi>Item,</hi> That this <hi>Judaicall Tiburne</hi> hath moſt traite<g ref="char:EOLhyphen"/>rouſly gone about to crucifie the Author of <hi>Lambeth faire.</hi>
+                           </item>
+                           <item>
+                              <hi>Item,</hi> That this huge <hi>great papiſticall Image</hi> hath ſe<g ref="char:EOLhyphen"/>ditiouſly occaſioned divers tumultuous inſurrections, <hi>politi<g ref="char:EOLhyphen"/>ticall</hi> and<hi>Nationall</hi> diſturbances, to the great overthrow of trading and Merchandary commerce.</item>
+                           <item>
+                              <hi>Item,</hi> That this <hi>vilanous piece of ſuperſtition, this peſtiferous Romiſh relique,</hi> under pretence of frightning the <hi>Divell</hi> out of the <hi>Market,</hi> hath brought the <hi>Divell</hi> or ſome <hi>Familiar ſpirit</hi> of knavery amongſt them, to the chea<g ref="char:EOLhyphen"/>ting and undoing his Majeſties poore ſubjects, their wives and children.</item>
+                        </list>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <sp>
+               <pb n="4" facs="tcp:156413:4"/>
+               <speaker>Ne.</speaker>
+               <l>Thus M<hi rend="sup">r</hi>. <hi>Papiſt</hi> you have heard the <hi>Bill</hi>
+               </l>
+               <l>Whereof ſhe ſtands accus'd againſt her will:</l>
+               <l>She is convicted and condemn'd of <hi>Treaſon,</hi>
+               </l>
+               <l>And dye ſhe muſt while <hi>Croſſes</hi> are in ſeaſon;</l>
+               <l>And I am ſent here to declare her fate;</l>
+               <l>Then <hi>Croſſe</hi> prepare, for thou muſt end thy date;</l>
+               <l>
+                  <hi>Vox populi</hi> hath doom'd thee to thy end,</l>
+               <l>They'll let thee live no longer to amend.</l>
+               <l>Then make thy <hi>Will</hi> to all the <hi>holy Tribe,</hi>
+               </l>
+               <l>Here ſtands a <hi>Papiſt</hi> let him be thy <hi>Scribe.</hi>
+               </l>
+               <l>At which ſad Newes the <hi>Croſſe</hi> began to ſhake,</l>
+               <l>And all the pictures there began to quake,</l>
+               <l>As if an <hi>Earthquake</hi> had poſſeſt the place,</l>
+               <l>Which made the <hi>Popes noſe</hi> ſhatter from his face:</l>
+               <l>That <hi>Babels whore</hi> looks as ſhe'd got the <hi>pox,</hi>
+               </l>
+               <l>Then woe to him that next takes up her ſmock.</l>
+               <l>In this affright the <hi>Virgin</hi> loſt her Crown.</l>
+               <l>Hands they flew off, and legs came tumbling downe.</l>
+               <l>The <hi>Croſier ſtaffe</hi> was broke, which might have kept</l>
+               <l>His <hi>Holineſſe</hi> from dogs, while he had ſlept.</l>
+               <l>The <hi>Pilgrims</hi> they were fit to ſtep aſide,</l>
+               <l>For on the <hi>Croſſe</hi> they durſt ſcarce there abide.</l>
+               <l>Such frightning terrour ſo poſſeſt the <hi>Beaſt</hi>
+               </l>
+               <l>That nere an <hi>Image</hi> there could be at reſt.</l>
+               <l>Yea 'twas ſo mighty it was thought by moſt</l>
+               <l>The forlorne Beaſt would then giv'n up the Ghoſt.</l>
+               <l>But after that the <hi>Croſſe</hi> had paus'd a while,</l>
+               <l>Shee forc'd theſe words out with a ſcurvie ſmile.</l>
+               <l>Oh diſmall doome, oh more accurſed fate,</l>
+               <l>The <hi>Croſſe</hi> in <hi>Cheap-ſide</hi> quite <hi>croſt out of date!</hi>
+               </l>
+               <l>And muſt I downe? tell him that paſſes by,</l>
+               <l>I liv'd a <hi>Croſſe,</hi> and by a <hi>Croſſe</hi> I dye.</l>
+               <l>Now holy Brother if you pleaſe to write,</l>
+               <l>My <hi>Will</hi> and <hi>Teſtaement,</hi> I'le thus indite.</l>
+            </sp>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="last_will_and_testament">
+                        <pb n="5" facs="tcp:156413:4"/>
+                        <head>The laſt will and Teſtament of <hi>Cheap-ſide Croſſe.</hi>
+                        </head>
+                        <p>IN the name of the <hi>Virgin Mary,</hi> and of his <hi>Holineſſe, Amen.</hi> I, the <hi>Croſſe</hi> in <hi>Cheap-ſide</hi> in <hi>London,</hi> profest Catholike; be<g ref="char:EOLhyphen"/>ing fore ſick in body, but in p<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rfect memorie, do m<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ke my last Will and Teſtament, in manner and forme as followeth.</p>
+                        <p>
+                           <hi>Imprimis,</hi> I do bequeath my Catholike ghoſt of conſecration to him that gave it, my body to be buried in the divine <hi>Sanctum San<g ref="char:EOLhyphen"/>ctorum</hi> of S. <hi>Pauls, </hi> in full aſſurance to be Canoniz'd a <hi>Martyr,</hi> and for ever eterniz'd in his <hi>Holineſſe Rubricks.</hi>
+                        </p>
+                        <p>
+                           <hi>Item,</hi> I give and bequeath all the Lead that is about me, to the <hi>hoſtile Catholikes</hi> in <hi>Ireland,</hi> to make <hi>Bullets</hi> to confound that cur<g ref="char:EOLhyphen"/>ſed crew of <hi>Heretikes.</hi>
+                        </p>
+                        <p>
+                           <hi>Item,</hi> I bequeath the <hi>Miters</hi> that inveſt the ſacred Temples of my <hi>Cardinals</hi> unto the <hi>Reverend Fathers</hi> the <hi>Biſhops</hi> of this Land</p>
+                        <p>
+                           <hi>Item,</hi> Their <hi>Croſier ſtatics</hi> to the Catholike Shepheards of this Kingdome, for <hi>Sheephookes.</hi>
+                        </p>
+                        <p>
+                           <hi>Item,</hi> I bequeath the <hi>Iron</hi> about me to make a <hi>Clapper</hi> for his <hi>Holineſſe paſſing-bell.</hi>
+                        </p>
+                        <p>
+                           <hi>Item,</hi> My poore <hi>Pilgrims</hi> that ſtand with their faces againſt all mind and Weather, I recomm<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nd unto his <hi>Holineſſe</hi> of <hi>Rome,</hi>to report the ſad tydings of my moſt miſerable and immature destru<g ref="char:EOLhyphen"/>ction.</p>
+                        <p>
+                           <hi>Item,</hi> The gilt that is about me, and ſuch other <hi>ſacred Re<g ref="char:EOLhyphen"/>liques </hi> as my Executors ſhall think fit, to be ſold next <hi>Lambeth Faire,</hi> for the diſcharge of my funerals.</p>
+                        <p>
+                           <hi>Laſtly,</hi> I conſtitute and ordaine the <hi>Graces</hi> of <hi>Canterbury</hi> and of <hi>Yorke,</hi> my Lawfull Executors for the adminiſtration of this my last Will and Teſtament.</p>
+                        <closer>
+                           <dateline>
+                              <hi>Sealed and Delivered in the preſence of</hi> &amp;c. Dated, <date>
+                                 <hi>Anno ultimo Guilielmi.</hi>
+                              </date>
+                           </dateline>
+                           <signed>The Croſſe <g ref="char:cross">✚</g> her mark.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <lg>
+               <l>This being done the <hi>Croſſe</hi> ſet ſuch a groane</l>
+               <l>Would pierc'd an heart that had beene made of ſtone.</l>
+               <l>Each <hi>Cardinall</hi> and <hi>Picture</hi> that was there,</l>
+               <l>To heare this ſigh, gave up the <hi>Ghoſt</hi> for feare.</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:156413:5"/>
+               <l>But the poore <hi>Pilgrims</hi> crampir'd by the back,</l>
+               <l>Withſtood the ſtorme, till that the <hi>Croſſe</hi> did crack:</l>
+               <l>A ſecond ſigh the <hi>Croſſe</hi> began to breath,</l>
+               <l>But ſighing breath'd her laſt, and took her leave.</l>
+               <l>At which the <hi>Papiſt</hi> ſtood as one halfe dead,</l>
+               <l>And ſwore by th' <hi>Maſse</hi> he'd rather loſt his head.</l>
+               <l>But ſince it was ſo come to paſſe, he would</l>
+               <l>See her with honour brought unto the <hi>mould.</hi>
+               </l>
+               <l>Which was perform'd in ſuch a pompous glory,</l>
+               <l>That I want art for to expreſſe the ſtory:</l>
+               <l>One thing except, and that I will reherſe</l>
+               <l>Some <hi>Epitaphs</hi> which were pin'd to her <hi>Hearſe.</hi>
+               </l>
+            </lg>
+            <div type="epitaph">
+               <head>Epitaphs upon the death of Cheap-ſide Croſſe.</head>
+               <lg>
+                  <l>COme here all you that faine would learne to weepe,</l>
+                  <l>And aske who's here, that in this tomb doth ſleep,</l>
+                  <l>You may receive an Anſwer, that will make</l>
+                  <l>Your eye ſtrings burſt your heart to yearne and quake,</l>
+                  <l>But muſt not be reveal'd, leſt it bring in</l>
+                  <l>A ſecond Deluge on the world for ſin.</l>
+               </lg>
+            </div>
+            <div type="epitaph">
+               <head>ALIUD.</head>
+               <lg>
+                  <l>Sure Death and Hell do now conſpire in one</l>
+                  <l>T invent new torments for us when we'r gone,</l>
+                  <l>For by-gone Ages thrown into the Duſt,</l>
+                  <l>Reſt in their Graves, to ſhew the Grave is juſt.</l>
+                  <l>But he that next ſhall here poſſeſſion have,</l>
+                  <l>He ſhall poore man find Croſſes in the Grave.</l>
+               </lg>
+            </div>
+            <div type="epitaph">
+               <head>ALIUD.</head>
+               <lg>
+                  <l>Here lies, I'le tell you if you pleaſe to know,</l>
+                  <l>A certain thing where at men us'd to bow;</l>
+                  <l>But Death hath bowd it (that unhappy Knave)</l>
+                  <l>And ſent it for a Token to the Grave.</l>
+               </lg>
+            </div>
+            <div type="epitaph">
+               <head>The <hi>AUTHOR</hi> to his Muſe.</head>
+               <lg>
+                  <l>REturne my Muſe, perchance thou waſt too blame,</l>
+                  <l>But if thou beeſt crave pardon for the ſame.</l>
+                  <l>Pardon ſhee craves for this preſumptuous flight,</l>
+                  <l>It ſhe offend, ſhe'll vaniſh out of ſight.</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
